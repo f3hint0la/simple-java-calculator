@@ -238,6 +238,8 @@ public class Main implements ActionListener {
                 case '%':
                     result = num1 % num2;
                     break;
+                default:
+                    throw new IllegalArgumentException("Invalid Operator");
             }
             textField.setText(String.valueOf(result));
             num1 = result;
