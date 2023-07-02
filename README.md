@@ -1,5 +1,5 @@
 # simple-java-calculator
-Calculator app created with built with Java using IntelliJ IDEA.
+Calculator app built with Java using IntelliJ IDEA.
 
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
